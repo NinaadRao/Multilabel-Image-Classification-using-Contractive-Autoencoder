@@ -93,3 +93,9 @@ classification are as follows:</h2>
 <p><b>F-1 Score:</b>0.678</p>
 <p><b>Recall:</b>0.6811</p>
 <p><b>Precision:</b>0.678</p>
+
+
+#### Credits
+<p> Maanvi Nunna</p>
+<p> Ninaad R. Rao</p>
+<p> Nishant Ravi Shankar</p>
