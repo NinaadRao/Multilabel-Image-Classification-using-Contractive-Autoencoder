@@ -71,7 +71,6 @@ network. Both the models’ performances are very close and further training can
 <p><b>F-1 Score:</b>0.677</p>
 <p><b>Recall:</b>0.646</p>
 <p><b>Precision:</b>0.717</p>
-<br>
 <h3> Testing Accuracy</h3>
 <p><b>Loss:</b>0.688</p>
 <p><b>Accuracy:</b>0.5614</p>
