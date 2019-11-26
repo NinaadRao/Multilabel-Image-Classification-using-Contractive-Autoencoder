@@ -95,7 +95,7 @@ classification are as follows:</h2>
 <p><b>Precision:</b>0.678</p>
 
 
-#### Credits
+## Credits
 <p> Maanvi Nunna</p>
 <p> Ninaad R. Rao</p>
 <p> Nishant Ravi Shankar</p>
