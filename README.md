@@ -1,4 +1,4 @@
-# Mutlilabel-Image-Classification-using-Contractive-Autoencoder
+# Multilabel-Image-Classification-using-Contractive-Autoencoder
 
 #### Dataset link : https://www.kaggle.com/c/understanding_cloud_organization
 #### About the dataset
